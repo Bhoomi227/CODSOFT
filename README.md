@@ -6,7 +6,7 @@
     <title>Landing Page</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.10.3/font/bootstrap-icons.min.css">
-    </head>
+    </head>            
 <body>
     <header class="header">
         <a href="#" class="logo">Cars.</a>
